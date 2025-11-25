@@ -28,6 +28,6 @@ https://github.com/user-attachments/assets/645fecc4-e1b6-45e0-ad39-5740c0112296
 [test_vid_9.csv](https://github.com/user-attachments/files/23746054/test_vid_9.csv)
 
 
-<img width="300" height="300" alt="1" src="https://github.com/user-attachments/assets/7c85f672-938d-4916-ab28-33d56cc48454" />
-<img width="300" height="300" alt="36" src="https://github.com/user-attachments/assets/ace033d0-d0c3-46ca-b8d3-29b954f255ba" />
-<img width="300" height="300" alt="51" src="https://github.com/user-attachments/assets/65846c6c-cb8f-43b7-82ba-0e0eff1939d7" />
+<img width="250" height="300" alt="1" src="https://github.com/user-attachments/assets/7c85f672-938d-4916-ab28-33d56cc48454" />
+<img width="250" height="300" alt="36" src="https://github.com/user-attachments/assets/ace033d0-d0c3-46ca-b8d3-29b954f255ba" />
+<img width="250" height="300" alt="51" src="https://github.com/user-attachments/assets/65846c6c-cb8f-43b7-82ba-0e0eff1939d7" />
