@@ -14,11 +14,20 @@
 https://github.com/user-attachments/assets/4b013392-c31d-460b-aa27-8ee53f77055f
 
 
+**2. Batsman Position Detection**
+
 > For tracking of batsman from clip we used YOLOv11
 
+https://github.com/user-attachments/assets/d7bbdb6c-880d-4c13-bf4c-a96f1ca274f7
+
+https://github.com/user-attachments/assets/645fecc4-e1b6-45e0-ad39-5740c0112296
 
 
+**3. Used MediaPipe Pose to extract 33 joint keypoints, forming temporal sequences**
+
+[test_vid_9.csv](https://github.com/user-attachments/files/23746054/test_vid_9.csv)
 
 
-https://github.com/user-attachments/assets/e212a33f-4d4f-48fa-af69-8083a578ea5b
-
+<img width="300" height="300" alt="1" src="https://github.com/user-attachments/assets/7c85f672-938d-4916-ab28-33d56cc48454" />
+<img width="300" height="300" alt="36" src="https://github.com/user-attachments/assets/ace033d0-d0c3-46ca-b8d3-29b954f255ba" />
+<img width="300" height="300" alt="51" src="https://github.com/user-attachments/assets/65846c6c-cb8f-43b7-82ba-0e0eff1939d7" />
