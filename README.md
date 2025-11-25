@@ -42,4 +42,9 @@ https://github.com/user-attachments/assets/645fecc4-e1b6-45e0-ad39-5740c0112296
 [cricket_scores149.xlsx](https://github.com/user-attachments/files/23746498/cricket_scores149.xlsx)
 
 
+ ## Results 
+
+ <img width="300" height="300" alt="Kohli_distribution_final_high" src="https://github.com/user-attachments/assets/d88408bd-6fe9-4113-924f-e02242b4792e" />
  
+ <img width="300" height="300" alt="Kohli_distribution_final_low" src="https://github.com/user-attachments/assets/a97fd2f8-cec3-4e50-bf9a-d79dfcad929f" />
+
